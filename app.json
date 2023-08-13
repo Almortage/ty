@@ -28,85 +28,10 @@
         "description": "حط هنا توكن بوتك .",
         "value": "",
         "required": true
-      },
-      "GIT_TOKEN": {
-        "description": "حط هنا توكن بوتك .",
-        "value": "",
-        "required": true
-      },  
-      "BOT_USERNAME": {
-        "description": "حط هنا يوزر البوت بدون @ ينجم .",
-        "value": "reshtybot",
-        "required": true
-      },
-      "MONGO_DB_URI": {
-        "description": "حط هنا كود المونجو .",
-        "value": "mongodb+srv://bot_vambir:Al2552001@cluster0.heabj.mongodb.net/vambir_bot?retryWrites=true&w=majority",
-        "required": false
-      },
-      "MUSIC_BOT_NAME": {
-        "description": "حط اسم البوت انجلش كابيتال زيي - BARLOO.",
-        "value": "BARLOO",
-        "required": true
-      },
-      "NAME_BOT": {
-        "description": "حط اسم البوت ب العربي زي كريستين .",
-        "value": "كريستين",
-        "required": true
-      },
-      "OWNER": {
-        "description": "حط هنا يوزر المطور منغير علامه @ .",
-        "value": "bar_lo0o0",
-        "required": true
-      },
-      "OWNER_USER": {
-        "description": "حط هنا يوزر المطور بعلامه @ .",
-        "value": "@bar_lo0o0",
-        "required": true
-      },
-      "OWNER_ID": {
-        "description": "حط هنا ايدي المطور ينجم .",
-        "value": "5363951902",
-        "required": true
-      },
-      "IMG_DEV1": {
-        "description": "حط لينك صورة المطور ينجم .",
-        "value": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
-        "required": true
-      },
-      "IMG_BOT1": {
-        "description": "حط لينك صورة البوت ينجم .",
-        "value": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
-        "required": true
-      },
-      "STRING_SESSION": {
-        "description": "حط كود الجلسه هنا .",
-        "value": "",
-        "required": true
-      },
-      "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
-        "value": "",
-        "required": false
-      },
-      "HEROKU_APP_NAME": {
-        "description": "حط اول اسم كتبتوو فوق",
-        "value": "",
-        "required": false
-      },
-      "LOG_GROUP_ID": {
-        "description": "حط ايدي جروب البوتات وارفع البوت والحساب المساعد مشرف الاول .",
-        "value": "-1001613226619",
-        "required": true
-      },
-      "START_IMG_URL": {
-        "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/1a38e52936d7007199c78.jpg",
-        "required": true
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "",
+        "value": "https://github.com/Almortage/ty",
         "required": true
       },
       "UPSTREAM_BRANCH": {
