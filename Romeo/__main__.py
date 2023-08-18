@@ -10,7 +10,7 @@ from Romeo.modules import ALL_MODULES
 async def start_bot():
     for all_module in ALL_MODULES:
         importlib.import_module("Romeo.modules." + all_module)
-    LOG.print("[bold yellow]💞 ʙᴏᴛ sᴛᴀʀᴛᴇᴅ")
+    LOG.print("[bold yellow]تم تشغيل بوتك")
     await idle() 
     LOG.print("[bold red]ᴄᴀɴᴄᴇʟɪɴɢ ᴀʟʟ ᴛᴀsᴋs.")
 
