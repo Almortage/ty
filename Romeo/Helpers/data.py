@@ -50,6 +50,8 @@ info = """
 
 PM_BUTTON = IKM([[IKB("• ʜᴀᴄᴋ •", callback_data="hack_btn")]])
 
+PM_BUTTON = IKM([[IKB("• المطور •", url="https://t.me/ALMORTAGEL_12")]])
+
 HACK_MODS = IKM([
     [
         IKB("A", callback_data="A"),
