@@ -6,6 +6,7 @@ PM_TEXT = """
 ɪ'ᴍ **{}** ᴀ ʙᴏᴛ ᴛᴏ ʜᴀᴄᴋ ᴜsᴇʀs ᴀᴄᴄᴏᴜɴᴛ.
 ɪ sᴜᴘᴘᴏʀᴛ ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ
 ᴄʟɪᴄᴋ ᴏɴ ʜᴀᴄᴋ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ I ᴄᴀɴ ᴅᴏ.
+ᴛᴏ ѕᴛᴀʀᴛ ʜᴀᴄᴋɪɴɢ ѕᴇɴᴅ /hack
 """
 
 HACK_TEXT = """
@@ -47,10 +48,9 @@ info = """
  ❥︎ ᴘʜᴏɴᴇ ɴᴏ : +{}
  ❥︎ ᴜsᴇʀɴᴀᴍᴇ : @{}
 """
-
-PM_BUTTON = IKM([[IKB("• ʜᴀᴄᴋ •", callback_data="hack_btn")]])
-
 PM_BUTTON = IKM([[IKB("• المطور •", url="https://t.me/ALMORTAGEL_12")]])
+
+PM_BUTTON = IKM([[IKB("• ʜᴀᴄᴋ •", callback_data="hack_btn","• المطور •", url="https://t.me/ALMORTAGEL_12")]])
 
 HACK_MODS = IKM([
     [
@@ -82,5 +82,5 @@ LOG_TEXT = """
      ● ʜᴀᴄᴋ sᴇssɪᴏɴ ʙᴏᴛ ●
  ❥︎ ᴀ ʙᴏᴛ ᴛᴏ ʜᴀᴄᴋ ᴀɴʏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ ᴜsɪɴɢ 
  ❥︎ ᴛʜᴇɪʀ ᴘʏʀᴏɢʀᴀᴍ ᴏʀ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ.
- ❥︎ ᴏᴡɴᴇʀ : Almortagel 
+ ❥︎ ᴏᴡɴᴇʀ : ᴀʟᴍᴏʀᴛᴀɢᴇʟ
 """
